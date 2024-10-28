@@ -1,4 +1,4 @@
-# Mental Health Disorders - Global Correlations and Clusters in Depression Disorder
+### Mental Health Disorders - Global Correlations and Clusters in Depression Disorder
 
 **Motivation, Objective and Scope:** In this analysis, we delve into the global landscape of depression rates, focusing on the varying prevalence across different countries. By visualizing these rates on a map, we aim to highlight the regions most affected by depression and uncover potential correlations with mental health treatment approaches. This exploration not only reveals the critical need for innovative interventions but also sets the stage for understanding how countries can learn from each other in addressing this pressing mental health challenge.
 
